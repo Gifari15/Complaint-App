@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 class LoginController extends Controller
 {
-    //
+    //testing comment 2
     public function index()
     {
     	// mengambil data dari table pegawai
